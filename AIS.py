@@ -38,7 +38,7 @@ class AIS:
 
         return population[0]
 
-# Example with dummy structural data
+# Example with dummy structural data 
 X, y = np.random.rand(100, 10), np.random.randint(0, 2, 100)
 
 # Split data
